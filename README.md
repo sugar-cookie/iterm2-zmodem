@@ -1,1 +1,1 @@
-# iterm2-zmodem脚本
+# Mac上配置iterm2使用lrzsz命令进行文件的脚本
